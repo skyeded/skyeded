@@ -29,16 +29,12 @@ _I recommend visiting my GitHub [PORTFOLIO](https://github.com/skyeded/Portfolio
 ![image](https://github.com/user-attachments/assets/e78b5b81-c7ed-4f3f-9bb7-7483fe328ed7)
 ![image](https://github.com/user-attachments/assets/4aae42bd-5a8a-4f0d-a05e-4fb451c35e6a)
 
-
-
-
-
-
-
-
-
-
 ---
+
+<a href="https://github.com/skyeded">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight"/>
+</a>
+
 
 
 
