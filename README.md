@@ -13,7 +13,7 @@ I have always enjoyed coding, and I am often open to learning new programming la
 + Projects in GitHub
   + Deep Learning
   
-    + [Human Action Prediction](#humans-action-prediction)
+    + [Human Action Prediction](https://github.com/skyeded/Deep-Learning-Projects/blob/main/README.md#humans-action-prediction)
     + [Diabetes Prediction](#diabetes-prediction)
     + [TV-Script Generation](#tv-scripts-generation)
     + [Dog Breeds Classification](#dog-breeds-classification)
