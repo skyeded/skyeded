@@ -1,4 +1,4 @@
-# <p align=center>Welcome to my Profile!
+# <p align=center>Welcome to my GitHub!
 
 ### About me</br>
 __Hi there!__</br>
