@@ -32,7 +32,7 @@ _I recommend visiting my GitHub [PORTFOLIO](https://github.com/skyeded/Portfolio
 ---
 
 <a href="https://github.com/skyeded">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skyeded&layout=compact&theme=tokyonight"/>
 </a>
 
 
