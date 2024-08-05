@@ -9,7 +9,7 @@ _I recommend visiting my GitHub [PORTFOLIO](https://github.com/skyeded/Portfolio
 ### Connect With me:
 <a href="https://www.linkedin.com/in/arnuparp-cheammarerng-b8446225a/"><img src="https://github.com/user-attachments/assets/ec03e345-bef0-4c35-9d9b-a0ee7411003f" alt="alternate text" width=”30px”></a>
 <a href="https://www.hackerrank.com/profile/angelts1234"><img src="https://github.com/user-attachments/assets/ef401e3c-e13d-45f9-b6c0-b0f6a89d27df" alt="alternate text" width=”30px”></a>
-<a href="https://www.kaggle.com/skyeded"><img src="https://github.com/user-attachments/assets/2abb382e-0590-40fa-bc02-22d9d6cbf5a8" alt="alternate text" width=”30px”></a>
+<a href="https://www.kaggle.com/arnuparpcheammarerng"><img src="https://github.com/user-attachments/assets/2abb382e-0590-40fa-bc02-22d9d6cbf5a8" alt="alternate text" width=”30px”></a>
 
 ---
 
